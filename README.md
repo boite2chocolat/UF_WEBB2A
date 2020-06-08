@@ -16,7 +16,7 @@ php bin/console doctrine:schema:create
 ```
 php bin/console app:create-admin-user 'email' 'password'
 ```
-## Built with
+## techologie
 - Symfony 4
 - Doctrine
 - Twig
